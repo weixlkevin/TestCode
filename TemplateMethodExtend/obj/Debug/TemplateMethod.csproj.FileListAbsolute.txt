@@ -1,0 +1,6 @@
+F:\软件项目\DesignPatternPractise\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+F:\软件项目\DesignPatternPractise\TemplateMethod\bin\Debug\TemplateMethod.exe
+F:\软件项目\DesignPatternPractise\TemplateMethod\bin\Debug\TemplateMethod.pdb
+F:\软件项目\DesignPatternPractise\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+F:\软件项目\DesignPatternPractise\TemplateMethod\obj\Debug\TemplateMethod.exe
+F:\软件项目\DesignPatternPractise\TemplateMethod\obj\Debug\TemplateMethod.pdb

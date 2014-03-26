@@ -1,19 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExtend", "..\..\DesignPatternPractise\SingletonExtend\SingletonExtend.csproj", "{00C38125-1A5B-45C1-82E0-36A5B7ECCC9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExtend", "SingletonExtend\SingletonExtend.csproj", "{00C38125-1A5B-45C1-82E0-36A5B7ECCC9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "..\..\DesignPatternPractise\AbstractFactory\AbstractFactory.csproj", "{6CA52AC5-0AE6-4E78-9DD1-8ED555C82BF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{6CA52AC5-0AE6-4E78-9DD1-8ED555C82BF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "..\..\DesignPatternPractise\TemplateMethod\TemplateMethod.csproj", "{491927C2-BDF6-41EC-A4EA-13E8A633318F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{491927C2-BDF6-41EC-A4EA-13E8A633318F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodExtend", "..\..\DesignPatternPractise\TemplateMethodExtend\TemplateMethodExtend.csproj", "{2F149098-7994-48E7-AC63-291F162B9B77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodExtend", "TemplateMethodExtend\TemplateMethodExtend.csproj", "{2F149098-7994-48E7-AC63-291F162B9B77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "..\..\DesignPatternPractise\PrototypePattern\PrototypePattern.csproj", "{69B60DBF-6443-4A87-BA59-C0AD5F3E266D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "PrototypePattern\PrototypePattern.csproj", "{69B60DBF-6443-4A87-BA59-C0AD5F3E266D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "..\..\DesignPatternPractise\MediatorPattern\MediatorPattern.csproj", "{1917062A-A862-4707-83CA-5E1405DBFA1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "MediatorPattern\MediatorPattern.csproj", "{1917062A-A862-4707-83CA-5E1405DBFA1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "..\..\DesignPatternPractise\ChainOfResponsibility\ChainOfResponsibility.csproj", "{5F1DB892-9F35-439D-AEE3-499CE4308AD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{5F1DB892-9F35-439D-AEE3-499CE4308AD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

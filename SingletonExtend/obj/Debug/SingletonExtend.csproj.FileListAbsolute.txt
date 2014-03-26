@@ -1,0 +1,12 @@
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\SingletonExtend\bin\Debug\SingletonExtend.exe.config
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\SingletonExtend\obj\Debug\SingletonExtend.csprojResolveAssemblyReference.cache
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\SingletonExtend\bin\Debug\SingletonExtend.exe
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\SingletonExtend\bin\Debug\SingletonExtend.pdb
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\SingletonExtend\obj\Debug\SingletonExtend.exe
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\SingletonExtend\obj\Debug\SingletonExtend.pdb
+E:\软件项目\DesignPatternPractise\SingletonExtend\bin\Debug\SingletonExtend.exe.config
+E:\软件项目\DesignPatternPractise\SingletonExtend\bin\Debug\SingletonExtend.exe
+E:\软件项目\DesignPatternPractise\SingletonExtend\bin\Debug\SingletonExtend.pdb
+E:\软件项目\DesignPatternPractise\SingletonExtend\obj\Debug\SingletonExtend.csprojResolveAssemblyReference.cache
+E:\软件项目\DesignPatternPractise\SingletonExtend\obj\Debug\SingletonExtend.exe
+E:\软件项目\DesignPatternPractise\SingletonExtend\obj\Debug\SingletonExtend.pdb

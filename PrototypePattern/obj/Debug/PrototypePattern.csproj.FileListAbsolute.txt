@@ -1,0 +1,6 @@
+E:\软件项目\DesignPatternPractise\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+E:\软件项目\DesignPatternPractise\PrototypePattern\bin\Debug\PrototypePattern.exe
+E:\软件项目\DesignPatternPractise\PrototypePattern\bin\Debug\PrototypePattern.pdb
+E:\软件项目\DesignPatternPractise\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
+E:\软件项目\DesignPatternPractise\PrototypePattern\obj\Debug\PrototypePattern.exe
+E:\软件项目\DesignPatternPractise\PrototypePattern\obj\Debug\PrototypePattern.pdb

@@ -1,0 +1,15 @@
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\AbstractFactory\bin\Debug\AbstractFactory.exe
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\AbstractFactory\bin\Debug\AbstractFactory.pdb
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\AbstractFactory\obj\Debug\AbstractFactory.exe
+c:\users\weixl\documents\visual studio 2012\Projects\DesignPatternPractise\AbstractFactory\obj\Debug\AbstractFactory.pdb
+F:\软件项目\DesignPatternPractise\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+F:\软件项目\DesignPatternPractise\AbstractFactory\obj\Debug\AbstractFactory.exe
+F:\软件项目\DesignPatternPractise\AbstractFactory\obj\Debug\AbstractFactory.pdb
+E:\软件项目\DesignPatternPractise\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+E:\软件项目\DesignPatternPractise\AbstractFactory\bin\Debug\AbstractFactory.exe
+E:\软件项目\DesignPatternPractise\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\软件项目\DesignPatternPractise\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+E:\软件项目\DesignPatternPractise\AbstractFactory\obj\Debug\AbstractFactory.exe
+E:\软件项目\DesignPatternPractise\AbstractFactory\obj\Debug\AbstractFactory.pdb
