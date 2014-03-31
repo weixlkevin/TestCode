@@ -1,0 +1,6 @@
+E:\软件项目\GitTestCode\TestCode\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+E:\软件项目\GitTestCode\TestCode\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+E:\软件项目\GitTestCode\TestCode\ProxyPattern\bin\Debug\ProxyPattern.exe
+E:\软件项目\GitTestCode\TestCode\ProxyPattern\bin\Debug\ProxyPattern.pdb
+E:\软件项目\GitTestCode\TestCode\ProxyPattern\obj\Debug\ProxyPattern.exe
+E:\软件项目\GitTestCode\TestCode\ProxyPattern\obj\Debug\ProxyPattern.pdb
